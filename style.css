@@ -1,0 +1,49 @@
+body{
+	background-color:navajowhite;
+}
+.heading1{font-size: 80px;
+	border: double;
+	text-align: center;
+padding: 10px;
+}
+.heading2{
+	text-align: center;
+	color: white;
+}
+img{width: 100%;
+
+}
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 200px;}
+
+.heading3{text-align: center;
+font-size: 20px;}
+
+table{width:100%;
+ font-family:revert-layer;
+background-color: white;}
+td,th{ padding: 1px;
+       text-align:center;
+       border:2px solid #dddddd;
+      }
+    tr:nth-child(even){background-color:lightblue;}
+
+.wrapper{background-color:lightgray;
+padding: 20px;
+width: 600px;}
+.first_name{
+  width: 500px;
+  padding: 15px;
+}
+.last_name{width: 500px;
+  padding: 15px;}
+
+.email{width: 500px;
+  padding: 15px;}
+
+.password{width: 500px;
+  padding: 15px;}
+label{font-size:25px;}
